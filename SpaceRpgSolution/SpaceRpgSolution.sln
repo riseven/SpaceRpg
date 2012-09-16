@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceRpgServer", "SpaceRpgServer\SpaceRpgServer.csproj", "{1E65A18E-E129-4E2C-8AA5-9A9E472A0EEB}"
 EndProject
 Global
